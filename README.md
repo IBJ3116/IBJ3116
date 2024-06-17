@@ -5,7 +5,7 @@ Welcome to my corner of the digital universe! I'm a passionate web programmer, a
 ## 🔭 What I'm Up To:
 
 - Exploring the intricacies of web design and development, crafting beautiful and intuitive user interfaces (UI) and user experiences (UX).
-- Diving deep into the realms of JavaScript, HTML, and CSS, constantly honing my skills to create dynamic and interactive web applications.
+- Diving deep into the realms of JavaScript, HTML, and CSS, constantly honing my skills to create dynamic and interactive web applications using next.js.
 - Collaborating with amazing teams on exciting projects that push the boundaries of technology and creativity.
 
 ## 🌱 Currently Learning:
